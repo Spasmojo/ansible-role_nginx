@@ -1,3 +1,5 @@
+[![CI](https://github.com/Spasmojo/ansible-role_nginx/workflows/CI/badge.svg?event=push)](https://github.com/Spasmojo/ansible-role_nginx/actions?query=workflow%3ACI)
+
 Role Name
 =========
 
